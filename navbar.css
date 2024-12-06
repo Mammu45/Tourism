@@ -1,0 +1,24 @@
+.logo{
+    height: 55px;
+    width: 60px;
+}
+.text-align{
+    margin-left: auto;
+}
+
+.item-dark{
+    color: black;
+    font-family: "roboto";
+
+}
+.banner-section{
+    background-image: url('https://www.shutterstock.com/image-vector/white-plane-blue-sky-flying-260nw-2355688291.jpg');    
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    text-align: center;
+
+}
+.text{
+    text-align: center;
+}
